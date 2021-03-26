@@ -14,8 +14,6 @@ sections:
     background_image_opacity: 60
   - type: features_section
     title: Why Choose YourGoal?
-    align: center
-    background_color: none
   - type: features_section
     features:
       - title: >-

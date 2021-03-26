@@ -12,15 +12,6 @@ sections:
     background_image_position: center top
     background_image_size: auto
     background_image_opacity: 60
-  - type: grid_section
-    title: How it works
-    grid_items:
-    grid_cols: two
-    grid_gap_horiz: medium
-    grid_gap_vert: medium
-    enable_cards: true
-    align: center
-    background_color: none
   - type: blog_feed_section
     title: What's New
     blog_feed_cols: three

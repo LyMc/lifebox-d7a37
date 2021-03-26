@@ -15,16 +15,6 @@ sections:
 - type: grid_section
     title: Featured On
     align: center
-    grid_items:
-      - image: images/logo-1.svg
-        image_alt: Logo 1
-        image_align: center
-      - image: images/logo-2.svg
-        image_alt: Logo 2
-        image_align: center
-      - image: images/logo-3.svg
-        image_alt: Logo 3
-        image_align: center
     grid_cols: three
     grid_gap_horiz: medium
     grid_gap_vert: medium

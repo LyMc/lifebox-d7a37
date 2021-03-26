@@ -7,7 +7,7 @@
     "header": {
         "title": "Lifebox",
         "logo_alt": "YourGoal logo",
-        "has_primary_nav": false,
+        "has_primary_nav": true,
         "has_secondary_nav": true,
         "secondary_nav_links": [
             {

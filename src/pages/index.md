@@ -4,7 +4,6 @@ sections:
   - type: hero_section
     title: Achieve your Goals!
     subtitle: Celebrating daily wins with YourGoal.
-    media_position: bottom
     align: center
     padding_top: large
     padding_bottom: small

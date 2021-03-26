@@ -119,7 +119,8 @@
                 "icon_position": "center",
                 "new_window": true
             }
-        ]
+        ],
+        "content": "j"
     },
     "title": "Stackbit Startup Theme",
     "domain": "https://lifebox-d7a37.netlify.app"

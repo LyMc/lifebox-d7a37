@@ -1,5 +1,5 @@
 ---
-title: Home
+title: Lifebox
 sections:
   - type: hero_section
     title: Achieve your Goals!

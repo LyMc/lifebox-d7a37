@@ -12,10 +12,6 @@ sections:
     background_image_position: center top
     background_image_size: auto
     background_image_opacity: 60
-  - type: features_section
-    features:
-    feature_padding_vert: small
-    background_color: none
   - type: grid_section
     title: How it works
     grid_items:

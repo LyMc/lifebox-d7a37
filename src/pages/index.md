@@ -3,7 +3,7 @@ title: Lifebox
 sections:
   - type: hero_section
     title: Achieve your Goals!
-    description: https://github.com/EmaSuriano/gatsby-starter-event-calendar
+    subtitle: https://github.com/EmaSuriano/gatsby-starter-event-calendar
     align: center
     padding_top: large
     padding_bottom: small
